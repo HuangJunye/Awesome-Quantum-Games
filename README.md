@@ -27,5 +27,10 @@ At the first version, I am going to add the games in choronological order.
 [Duel of the Numbers](https://github.com/johnberroa/Duel-of-the-Numbers) by John Berroa
 
 ## 2018
+[Hunt the Quantpu](https://ldjam.com/events/ludum-dare/42/hunt-the-quantpus) by James Wootton
+
+[A Link to Quantum](https://github.com/msohaibalam/Link_to_Quantum_game) by James Wootton, Jonathan DuBois and M. Sohaib Alam
+
+[Hello Quantum](http://helloquantum.mybluemix.net/) by James Wootton, Greg Boland, Ivan Duran and Amanda Shearon
 
 ## 2019
