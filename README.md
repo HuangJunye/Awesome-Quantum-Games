@@ -92,6 +92,10 @@ At the first version, I am going to add the games in choronological order.
 
 [QPong](https://github.com/HuangJunye/QPong) by Huang Junye, Jarrod Reilly, Anastasia Jeffery and James Weaver
 
+[FlappyQ](https://github.com/lukasszz/FlappyQ)
+
+[Qonway Game of Life](https://github.com/qonwaygameoflife/qonwaygameoflife)
+
 [QPong-Unity](https://github.com/HuangJunye/QPong-Unity) by Huang Junye, Gregory Boland, Ivan Duran Martinez
 
 [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/)
