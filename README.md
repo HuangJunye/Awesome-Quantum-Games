@@ -8,7 +8,14 @@ To start with, I will slowly include the games mentioned in James Wootton's medi
 
 At the first version, I am going to add the games in choronological order.
 
+## 2009
+[Universe Splitter](http://cheapuniverses.com/universesplitter/)
+
 ## 2017
+[Quantum Game with Photons](http://quantumgame.io) by Piotr Migdał, Patryk Hes and Michał Krupiński
+
+[Quantum Chess](https://store.steampowered.com/app/453870/Quantum_Chess/) by Christopher Cantwell
+
 [CatBoxScissors](https://medium.com/@decodoku/introducing-the-worlds-first-game-for-a-quantum-computer-50640e3c22e4) by James Wootton
 
 [Quantum Battleships](https://medium.com/@decodoku/quantum-battleships-the-first-multiplayer-game-for-a-quantum-computer-e4d600ccb3f3) by James Wootton
