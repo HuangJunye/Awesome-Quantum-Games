@@ -11,6 +11,10 @@ At the first version, I am going to add the games in choronological order.
 ## 2009
 [Universe Splitter](http://cheapuniverses.com/universesplitter/)
 
+## 2012
+
+[Quantum Moves](https://www.scienceathome.org/games/quantum-moves/)
+
 ## 2013
 
 [qCraft](https://sites.google.com/a/elinemedia.com/qcraft/wiki/qcraft)
@@ -18,6 +22,14 @@ At the first version, I am going to add the games in choronological order.
 ## 2015
 
 [Quantum Cats](http://quantumcats.ca/)
+
+[Quantum Dreams](https://www.scienceathome.org/games/quantum-dreams/)
+
+## 2016
+
+[Quantum Carnival](https://www.scienceathome.org/games/quantum-carnival/)
+
+[Quantum Minds](https://www.scienceathome.org/games/quantum-minds/)
 
 ## 2017
 [Quantum Game with Photons](http://quantumgame.io) by Piotr Migdał, Patryk Hes and Michał Krupiński
@@ -55,6 +67,8 @@ At the first version, I am going to add the games in choronological order.
 
 [Decodoku](https://decodoku.itch.io/decodoku) by James Wootton
 
+[Quantum Shooter](https://www.scienceathome.org/games/quantum-shooter/)
+
 ## 2019
 [Qubit the Barbarian](https://itch.io/jam/quantum-wheel/rate/371905)
 
@@ -79,3 +93,5 @@ At the first version, I am going to add the games in choronological order.
 [QPong](https://github.com/HuangJunye/QPong) by Huang Junye, Jarrod Reilly, Anastasia Jeffery and James Weaver
 
 [QPong-Unity](https://github.com/HuangJunye/QPong-Unity) by Huang Junye, Gregory Boland, Ivan Duran Martinez
+
+[Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/)
