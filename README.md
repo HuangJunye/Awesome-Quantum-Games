@@ -11,6 +11,14 @@ At the first version, I am going to add the games in choronological order.
 ## 2009
 [Universe Splitter](http://cheapuniverses.com/universesplitter/)
 
+## 2013
+
+[qCraft](https://sites.google.com/a/elinemedia.com/qcraft/wiki/qcraft)
+
+## 2015
+
+[Quantum Cats](http://quantumcats.ca/)
+
 ## 2017
 [Quantum Game with Photons](http://quantumgame.io) by Piotr Migdał, Patryk Hes and Michał Krupiński
 
