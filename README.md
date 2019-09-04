@@ -45,6 +45,8 @@ At the first version, I am going to add the games in choronological order.
 
 [Quantum Cat-sweeper](https://github.com/desireevl/quantum-catsweeper) by Desiree Vogt-Lee and Kendrick Tan
 
+[Decodoku](https://decodoku.itch.io/decodoku) by James Wootton
+
 ## 2019
 [Qubit the Barbarian](https://itch.io/jam/quantum-wheel/rate/371905)
 
