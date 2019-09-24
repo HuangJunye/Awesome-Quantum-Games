@@ -9,7 +9,7 @@ To start with, I will slowly include the games mentioned in James Wootton's medi
 At the first version, I am going to add the games in choronological order.
 
 ## 2009
-[Universe Splitter](http://cheapuniverses.com/universesplitter/)
+[Universe Splitter](http://cheapuniverses.com/universesplitter/): an app that uses a Quantis quantum device certified by the National Metrology Institute of Switzerland to split a single photon and use the many-worlds principle of quantum physics to help you make decisions.
 
 ## 2012
 
@@ -90,13 +90,13 @@ At the first version, I am going to add the games in choronological order.
 
 [QSpell](https://itch.io/jam/quantum-wheel/rate/371908)
 
-[QPong](https://github.com/HuangJunye/QPong) by Huang Junye, Jarrod Reilly, Anastasia Jeffery and James Weaver
+[QPong](https://github.com/HuangJunye/QPong): A quantum version of the classic video game Pong.
 
 [FlappyQ](https://github.com/lukasszz/FlappyQ)
 
 [Qonway Game of Life](https://github.com/qonwaygameoflife/qonwaygameoflife)
 
-[QPong-Unity](https://github.com/HuangJunye/QPong-Unity) by Huang Junye, Gregory Boland, Ivan Duran Martinez
+[QPong-Unity](https://github.com/HuangJunye/QPong-Unity): QPong ported to Unity for IBM Quantum Arcade Machine.
 
 [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/)
 
