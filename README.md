@@ -12,53 +12,51 @@ At the first version, I am going to add the games in choronological order.
 
 ## 2009
 
-[Universe Splitter](http://cheapuniverses.com/universesplitter/) - an app that uses a Quantis quantum device certified by the National Metrology Institute of Switzerland to split a single photon and use the many-worlds principle of quantum physics to help you make decisions.
+[Universe Splitter](http://cheapuniverses.com/universesplitter/) - An app that uses a Quantis quantum device certified by the National Metrology Institute of Switzerland to split a single photon and use the many-worlds principle of quantum physics to help you make decisions. (by Eric Daniels)
 
 ## 2012
 
-[Quantum Moves](https://www.scienceathome.org/games/quantum-moves/)
+[Quantum Moves](https://www.scienceathome.org/games/quantum-moves/) - An online citizen science simulation video game where players move quantum atoms. (by ScienceAtHome)
 
 ## 2013
 
-[qCraft](https://sites.google.com/a/elinemedia.com/qcraft/wiki/qcraft)
+[qCraft](https://sites.google.com/a/elinemedia.com/qcraft/wiki/qcraft) - A Minecraft mod that brings the principles of quantum physics to the world of Minecraft. (by Daniel Ratcliffe, Play Habit)
 
 ## 2015
 
-[Quantum Cats](http://quantumcats.ca/)
+[Quantum Cats](http://quantumcats.ca/) - The Quantum Cats are on a mission to rescue the kittens. But we need your help! Using the weird and spooky laws of quantum mechanics, help the Quantum Cats save the kittens. (by Institute for Quantum Computing at the University of Waterloo,)
 
-[Quantum Dreams](https://www.scienceathome.org/games/quantum-dreams/)
+[Quantum Dreams](https://www.scienceathome.org/games/quantum-dreams/) - Based on the gameplay of the first ScienceAtHome game Quantum Moves. The dreamland was created to put the original game in motion and spark a sense of flow. Go with the flow and dream the quantum dream! (by ScienceAtHome)
 
 ## 2016
 
-[Quantum Carnival](https://www.scienceathome.org/games/quantum-carnival/)
+[Quantum Carnival](https://www.scienceathome.org/games/quantum-carnival/) - Deep in the heart of scientific progress, a group of physicists have set up a seemingly out-of-place experiment: a colorful tent, hooked up to heavy equipment. You are invited to play for a while and not worry too much about the sound of data being recorded. (by ScienceAtHome)
 
-[Quantum Minds](https://www.scienceathome.org/games/quantum-minds/)
+[Quantum Minds](https://www.scienceathome.org/games/quantum-minds/) - Quantum Minds studies the human learning process as a player encounters gamified quantum physics problems. How do people solve the quantum challenge with little or no training in physics? Play Quantum Minds to help us answer this question! (by ScienceAtHome)
 
 ## 2017
 
-[Quantum Game with Photons](http://quantumgame.io) - by Piotr Migdał, Patryk Hes and Michał Krupiński
+[Quantum Game with Photons](http://quantumgame.io) - A puzzle game with photons, superposition and quantum measurement, right in your browser. With true quantum mechanics underneath! (by Piotr Migdał, Patryk Hes and Michał Krupiński)
 
-[Quantum Chess](https://store.steampowered.com/app/453870/Quantum_Chess/) - by Christopher Cantwell
+[Quantum Chess](https://store.steampowered.com/app/453870/Quantum_Chess/) - Dive into the strange world of quantum mechanics in the game of Quantum Chess, the game you saw in Caltech IQIM's "Anyone Can Quantum" where Paul Rudd beat Stephen Hawking. (by Christopher Cantwell)
 
-[CatBoxScissors](https://medium.com/@decodoku/introducing-the-worlds-first-game-for-a-quantum-computer-50640e3c22e4) - by James Wootton
+[CatBoxScissors](https://medium.com/@decodoku/introducing-the-worlds-first-game-for-a-quantum-computer-50640e3c22e4) - A quantum version of rock/paper/scissors. Claimed to be the first ever game that can be played on a real quantum computer. (by James Wootton)
 
-[Quantum Battleships](https://medium.com/@decodoku/quantum-battleships-the-first-multiplayer-game-for-a-quantum-computer-e4d600ccb3f3) - by James Wootton
+[Quantum Battleships](https://medium.com/@decodoku/quantum-battleships-the-first-multiplayer-game-for-a-quantum-computer-e4d600ccb3f3) - Like normal Battleships, but simpler and more complex at the same time. Claimed to be the first multiplayer game for quantum computers. (by James Wootton)
 
-[Quantum Solitare](https://decodoku.itch.io/quantum-solitaire)
+[Quantum Solitare](https://decodoku.itch.io/quantum-solitaire) - This game gives you a taste of the world of quantum information, using cards that follow the rules of quantum mechanics. The cards are dealt on an actual real-life quantum computer, sitting in an IBM lab. (by James Wootton)
 
-[Quantum tic-tac-toe](https://github.com/rohanp/QuantumTicTacToe) - by Rohan Pandit
+[Quantum tic-tac-toe](https://github.com/rohanp/QuantumTicTacToe) - The non-deterministic version of Tic Tac Toe, where you make two entangled quantum moves each turn that eventually collapse into a classical move. (by Rohan Pandit)
 
-[Hunt the Wumpus](https://decodoku.itch.io/hunt-the-quantpus) - by James Wootton
+[Hunt the Wumpus](https://decodoku.itch.io/hunt-the-quantpus) - A prototype of a 'Hunt the Wumpus' like game. Explore a lab and find two quantum creatures called Alice and Bob. Defeat them by using their quantum nature against them. (by James Wootton)
 
-[Battleships with partial NOT gates](https://medium.com/qiskit/how-to-program-a-quantum-computer-982a9329ed02) - by James Wootton
+[Battleships with partial NOT gates](https://medium.com/qiskit/how-to-program-a-quantum-computer-982a9329ed02) - The name explains everything. (by James Wootton)
 
-[Quantum Card Test](http://research.ibm.com/ibm-q/quantum-card-test/) - by IBM
+[Battleships with complementary measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe) - As usual, the title explains everything. (by James Wootton)
 
-[Battleships with complementary measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe) - by James Wootton
+[Quantum Awesomeness](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2) - Using a simple puzzle game to benchmark quantum computers. (by James Wootton)
 
-[Quantum Awesomeness](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2) - by James Wootton
-
-[Duel of the Numbers](https://github.com/johnberroa/Duel-of-the-Numbers) - by John Berroa
+[Duel of the Numbers](https://github.com/johnberroa/Duel-of-the-Numbers) - Two random numbers are generated and the player must make with their fingers the sum mod 5 of said generated numbers. Neuromorphic hardware detects the number of digits via a convolutional neural network. This is checked via generating the answer via quantum computing. After one player plays a round, the next player is up, and the game continues. (by John Berroa)
 
 ## 2018
 
