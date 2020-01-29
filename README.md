@@ -112,3 +112,8 @@ At the first version, I am going to add the games in choronological order.
 
 [PewPew-Qube](https://github.com/oscarhiggott/pewpew-qube/): An implementation of a quantum version of the Rubik’s cube on a PewPew device
 
+[Quantum Gate Quest](https://github.com/nbartzokas/quantum-gate-quest): a classic 2D dungeon crawler whose puzzles are powered by IBM's quantum technology!
+
+[Schrodinger's Cat](https://github.com/sorin-bolos/schrodingers-cat): a cool game that is ment to teach you about quantum superposition and quantum gates in a fun way.
+
+[Xmas Battle](http://xmasbattle2019.azurewebsites.net/gameindex): Complete with Santa Qlaus to load the sleigh with as many gifts as possible.
