@@ -124,6 +124,10 @@ The games are listed in choronological order but not strictly. (Games listed und
 
 [Piano Blochs](https://github.com/aquohn/piano-blochs) - A quantum harmonic osu!llator, a rhythm game based on popular existing titles such as osu! and Piano Tiles. (by John Khoo, McCoy Lim, Kong Lingda)
 
+### Quantum Futures Hackathon
+
+[Wolfiverse](https://github.com/HuangJunye/Wolfiverse) - Wolfiverse is a quantum story game where the player plays as a wolf traversing in a multiverse of three beloved wolf-related folktales: the little red riding hood, the boy who cried the wolf and the three little pigs. (by Aurélien Da Campo, Diogo Cunha, Huang Junye, Omar Costa Hamido, Sameed Muhammad, Yishan Qin)
+
 ### Qiskit Camp Asia
 
 [Quantum Duel](https://github.com/geduardo/Quantum-Duel--QISKITCAMPASIA) - Be the fastest of the Quantum West. (by Eduardo Gonzalez, Yohei Wakabayashi, Kaito Kishi, Unchalisa Taetragoo)
