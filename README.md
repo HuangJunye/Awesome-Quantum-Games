@@ -62,7 +62,7 @@ At the first version, I am going to add the games in choronological order.
 
 ## 2018
 
-[Hunt the Quantpu](https://ldjam.com/events/ludum-dare/42/hunt-the-quantpus) - A text-based dungeon crawler, based on the classic game ‘Hunt the Wumpus’. (by James Wootton)
+[Hunt the Quantpus](https://ldjam.com/events/ludum-dare/42/hunt-the-quantpus) - A text-based dungeon crawler, based on the classic game ‘Hunt the Wumpus’. (by James Wootton)
 
 [A Link to Quantum](https://github.com/msohaibalam/Link_to_Quantum_game) -  A collection of mini video-games that run on a quantum computer inspired by retro classics such as Zelda and Block-Out. (by James Wootton, Jonathan DuBois, M. Sohaib Alam)
 
@@ -76,27 +76,27 @@ At the first version, I am going to add the games in choronological order.
 
 ## 2019
 
-### Quantum Wheel game jame
+### Quantum Wheel game jam
 
-[Qubit the Barbarian](https://itch.io/jam/quantum-wheel/rate/371905) - (by Henri Sarasvirta, Petri Sarasvirta, Teemu Kivikangas, Henri Lyyra, Leevi Leppäjärvi, Elie Abraham)
+[Qubit the Barbarian](https://exca.itch.io/qubit-the-barbarian) - You are Qubit the Barbarian on a quest in the Quantum maze. On your quest you navigate through the mysterious changing labyrinth fighting enemies and looking for food to stay alive. (by Henri Sarasvirta, Petri Sarasvirta, Teemu Kivikangas, Henri Lyyra, Leevi Leppäjärvi, Elie Abraham)
 
-[Q|Cards⟩](https://itch.io/jam/quantum-wheel/rate/371884) - (by Oskari Kerppo, Jorden Senior, Sabrina Maniscallo, Guillermo Garcia-Perez, Samuli Jääskeläinen, Sylvia Smatanova, Krista Erkkilä, Elie Abraham)
+[Q|Cards⟩](https://zhamul.itch.io/qcards) - A quantum card game. (by Oskari Kerppo, Jorden Senior, Sabrina Maniscallo, Guillermo Garcia-Perez, Samuli Jääskeläinen, Sylvia Smatanova, Krista Erkkilä, Elie Abraham)
 
-[Quantum Socket](https://itch.io/jam/quantum-wheel/rate/371865) - (by Jere Sanisalo, Antti Svenn, Jaakko Iisalo)
+[Quantum Socket](https://xmunkki.itch.io/quantum-socket) - Quantum Socket is a game where you try to insert a USB cable the "right" way into a USB socket. (by Jere Sanisalo, Antti Svenn, Jaakko Iisalo)
 
-[ｈ~ａ~ｍ~ｓ~ｔ~ｅ~ｒ~ｗ~ａ~ｖ~ｅ](https://itch.io/jam/quantum-wheel/rate/371579) - (by Elie Abraham, Bjorn Lindholm, Sebastian Laitila, Thekids Laitila, Sun Park, Laura Piispanen, Julia Rassa, Igor Sokolov, Sabrina Maniscalco)
+[ｈ~ａ~ｍ~ｓ~ｔ~ｅ~ｒ~ｗ~ａ~ｖ~ｅ](https://aarreentertainment.itch.io/hamsterwave) - Hamsterwave is a game where you use the quantum black box to move the hamster. (by Elie Abraham, Bjorn Lindholm, Sebastian Laitila, Thekids Laitila, Sun Park, Laura Piispanen, Julia Rassa, Igor Sokolov, Sabrina Maniscalco)
 
-[Schrödinger's Livingroom](https://itch.io/jam/quantum-wheel/rate/371889) - (by Adelina Lintuluoto, Daria Anttila, Matt Bengston, Sabine Harrer, Simon Nielsen, Reetu Kontio, Vasili Sevriuk)
+[Schrödinger's Livingroom](https://enibolas.itch.io/schrdingers-livingroom) - All the stuff in Erwin Schrödinger's living room is |dead>+|alive> simultaneously! (by Adelina Lintuluoto, Daria Anttila, Matt Bengston, Sabine Harrer, Simon Nielsen, Reetu Kontio, Vasili Sevriuk)
 
-[Quantum Fruit](https://itch.io/jam/quantum-wheel/rate/371903) - (by Jaakko Sirén, Arvi Teikari, Rosanna Micieli, Nicola Lo Gullo)
+[Quantum Fruit](https://xxx887.itch.io/quantum-fruit) - A game about quantum black box. (by Jaakko Sirén, Arvi Teikari, Rosanna Micieli, Nicola Lo Gullo)
 
-[SneaQysnake](https://itch.io/jam/quantum-wheel/rate/371892) - (by Vasilii Sevriuk, Ivan Yamshchikov)
+[SneaQysnake](https://vasilii.itch.io/sneaqysnake) - A strange adventure of the snake in the "quantum world". (by Vasilii Sevriuk, Ivan Yamshchikov)
 
-[Quantum Cabaret](https://itch.io/jam/quantum-wheel/rate/371902) - (by Lassi Vapaakallio, Elie Abraham, Olli Harjola, Nadiia Honcharuk, Noora Heiskanen, Roxanne Brooke, Henri Niva)
+[Quantum Cabaret](https://cynderbark.itch.io/quantum-cabaret) - Play through the Jazzy Noir story by changing colors in the scenes. (by Lassi Vapaakallio, Elie Abraham, Olli Harjola, Nadiia Honcharuk, Noora Heiskanen, Roxanne Brooke, Henri Niva, Matteo Rossi)
 
-[Qubit Gardener](https://itch.io/jam/quantum-wheel/rate/371912) - (by Pekka Kujansuu, Jaakko Iisalo)
+[Qubit Gardener](https://pekuja.itch.io/qubit-gardener) - Relaxing gardening simulator using quantum computing. (by Pekka Kujansuu, Jaakko Iisalo)
 
-[QSpell](https://itch.io/jam/quantum-wheel/rate/371908) - (by Victor Minin, Boris Sokolov, Walter Talarico)
+[QSpell](https://bosoko.itch.io/qspell) - Magician fights noise with hands. (by Victor Minin, Boris Sokolov, Walter Talarico)
 
 ### Qiskit Camp 2019
 
