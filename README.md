@@ -1,7 +1,9 @@
 # Awesome Quantum Games
+
 This list is inspired by [awesome lists](https://github.com/sindresorhus/awesome#readme), but not intended to be awesome, but trying to be as complete as possible. 
 
 ## What are quantum games?
+
 The definition of quantum games for this list is rather broad. Any game that have major component of quantum mechanics is a quantum game.
 
 To start with, I will slowly include the games mentioned in James Wootton's medium article: https://medium.com/@decodoku/the-history-of-games-for-quantum-computers-a1de98859b5a This article include only the games which can potentially be played on real quantum computers.
@@ -9,7 +11,8 @@ To start with, I will slowly include the games mentioned in James Wootton's medi
 At the first version, I am going to add the games in choronological order.
 
 ## 2009
-[Universe Splitter](http://cheapuniverses.com/universesplitter/): an app that uses a Quantis quantum device certified by the National Metrology Institute of Switzerland to split a single photon and use the many-worlds principle of quantum physics to help you make decisions.
+
+[Universe Splitter](http://cheapuniverses.com/universesplitter/) - an app that uses a Quantis quantum device certified by the National Metrology Institute of Switzerland to split a single photon and use the many-worlds principle of quantum physics to help you make decisions.
 
 ## 2012
 
@@ -32,44 +35,49 @@ At the first version, I am going to add the games in choronological order.
 [Quantum Minds](https://www.scienceathome.org/games/quantum-minds/)
 
 ## 2017
-[Quantum Game with Photons](http://quantumgame.io) by Piotr Migdał, Patryk Hes and Michał Krupiński
 
-[Quantum Chess](https://store.steampowered.com/app/453870/Quantum_Chess/) by Christopher Cantwell
+[Quantum Game with Photons](http://quantumgame.io) - by Piotr Migdał, Patryk Hes and Michał Krupiński
 
-[CatBoxScissors](https://medium.com/@decodoku/introducing-the-worlds-first-game-for-a-quantum-computer-50640e3c22e4) by James Wootton
+[Quantum Chess](https://store.steampowered.com/app/453870/Quantum_Chess/) - by Christopher Cantwell
 
-[Quantum Battleships](https://medium.com/@decodoku/quantum-battleships-the-first-multiplayer-game-for-a-quantum-computer-e4d600ccb3f3) by James Wootton
+[CatBoxScissors](https://medium.com/@decodoku/introducing-the-worlds-first-game-for-a-quantum-computer-50640e3c22e4) - by James Wootton
+
+[Quantum Battleships](https://medium.com/@decodoku/quantum-battleships-the-first-multiplayer-game-for-a-quantum-computer-e4d600ccb3f3) - by James Wootton
 
 [Quantum Solitare](https://decodoku.itch.io/quantum-solitaire)
 
-[Quantum tic-tac-toe](https://github.com/rohanp/QuantumTicTacToe) by Rohan Pandit
+[Quantum tic-tac-toe](https://github.com/rohanp/QuantumTicTacToe) - by Rohan Pandit
 
-[Hunt the Wumpus](https://decodoku.itch.io/hunt-the-quantpus) by James Wootton
+[Hunt the Wumpus](https://decodoku.itch.io/hunt-the-quantpus) - by James Wootton
 
-[Battleships with partial NOT gates](https://medium.com/qiskit/how-to-program-a-quantum-computer-982a9329ed02) by James Wootton
+[Battleships with partial NOT gates](https://medium.com/qiskit/how-to-program-a-quantum-computer-982a9329ed02) - by James Wootton
 
-[Quantum Card Test](http://research.ibm.com/ibm-q/quantum-card-test/) by IBM
+[Quantum Card Test](http://research.ibm.com/ibm-q/quantum-card-test/) - by IBM
 
-[Battleships with complementary measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe) by James Wootton
+[Battleships with complementary measurements](https://medium.com/@decodoku/how-to-program-a-quantum-computer-part-2-f0d3eee872fe) - by James Wootton
 
-[Quantum Awesomeness](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2) by James Wootton
+[Quantum Awesomeness](https://medium.com/@decodoku/understanding-quantum-computers-through-a-simple-puzzle-game-a290dde89fb2) - by James Wootton
 
-[Duel of the Numbers](https://github.com/johnberroa/Duel-of-the-Numbers) by John Berroa
+[Duel of the Numbers](https://github.com/johnberroa/Duel-of-the-Numbers) - by John Berroa
 
 ## 2018
-[Hunt the Quantpu](https://ldjam.com/events/ludum-dare/42/hunt-the-quantpus) by James Wootton
 
-[A Link to Quantum](https://github.com/msohaibalam/Link_to_Quantum_game) by James Wootton, Jonathan DuBois and M. Sohaib Alam
+[Hunt the Quantpu](https://ldjam.com/events/ludum-dare/42/hunt-the-quantpus) - by James Wootton
 
-[Hello Quantum](http://helloquantum.mybluemix.net/) by James Wootton, Greg Boland, Ivan Duran and Amanda Shearon
+[A Link to Quantum](https://github.com/msohaibalam/Link_to_Quantum_game) - by James Wootton, Jonathan DuBois and M. Sohaib Alam
 
-[Quantum Cat-sweeper](https://github.com/desireevl/quantum-catsweeper) by Desiree Vogt-Lee and Kendrick Tan
+[Hello Quantum](http://helloquantum.mybluemix.net/) - by James Wootton, Greg Boland, Ivan Duran and Amanda Shearon
 
-[Decodoku](https://decodoku.itch.io/decodoku) by James Wootton
+[Quantum Cat-sweeper](https://github.com/desireevl/quantum-catsweeper) - by Desiree Vogt-Lee and Kendrick Tan
+
+[Decodoku](https://decodoku.itch.io/decodoku) - by James Wootton
 
 [Quantum Shooter](https://www.scienceathome.org/games/quantum-shooter/)
 
 ## 2019
+
+### Quantum Wheel game jame
+
 [Qubit the Barbarian](https://itch.io/jam/quantum-wheel/rate/371905)
 
 [Q|Cards⟩](https://itch.io/jam/quantum-wheel/rate/371884)
@@ -90,30 +98,70 @@ At the first version, I am going to add the games in choronological order.
 
 [QSpell](https://itch.io/jam/quantum-wheel/rate/371908)
 
-[QPong](https://github.com/HuangJunye/QPong): A quantum version of the classic video game Pong.
+### Qiskit Camp 2019
+
+[QPong](https://github.com/HuangJunye/QPong) - A quantum version of the classic video game Pong.
 
 [FlappyQ](https://github.com/lukasszz/FlappyQ)
 
+### Qiskit Hackathon Madrid
+
 [Qonway Game of Life](https://github.com/qonwaygameoflife/qonwaygameoflife)
 
-[QPong-Unity](https://github.com/HuangJunye/QPong-Unity): QPong ported to Unity for IBM Quantum Arcade Machine.
+### Qiskit Camp Europe
+
+[Q-Snakers](https://github.com/geduardo/Hackathon-Quantum-Snake) - A quantum-based version of the game snake on a PewPew device
+
+[Q Rogues](https://gitlab.com/Nico0008/quantum-rogues-maze) - A rogue-like game where gameplay elements are procedurally generated by quantum circuits on which the user has some influence
+
+[Dr. Qubit](https://github.com/korgan00/dr-qubit) - An educational game based on Qiskit and focused on arcade machines, A quantum approach of the Doctor Mario. (by Yaiza García Martín-Mantero, Vicente Pina Canelles, ..)
+
+[Frozen Q](https://github.com/lustasag/frozenq) - A quantum game inspired by the classic Frozen Bubbles game (by Aurél Gábris, ...)
+
+[Quantum Hold’em](https://github.com/danielbultrini/Quantum-Hold-em-) - A two-player “card” game designed to develop an intuition about common operations on qubits. (by Daniel Bultrini, Martin Buchacek, ...)
+
+[PewPew-Qube](https://github.com/oscarhiggott/pewpew-qube/) - An implementation of a quantum version of the Rubik’s cube on a PewPew device. (by Oscar Higgott, Radomir Dopieralski, ...)
+
+### Qiskit Hackathon @ Singapore
+
+[Qubit Tic Tac Toe](https://github.com/honlin96/Qubit-Tic-Tac-Toe)
+
+[Piano Blochs](https://github.com/aquohn/piano-blochs)
+
+### Qiskit Camp Asia
+
+[Quantum Duel](https://github.com/geduardo/Quantum-Duel--QISKITCAMPASIA)
+
+[QQQ!](https://github.com/CanonMukai/EducationalQuantumGame)
+
+[MinQuan](https://github.com/jukoyama/qiskit-board)
+
+[Quantum Othello](https://github.com/Chibikuri/Quantum-Othello)
+
+### CSS Qiskit Hackathon
+
+[QTetris](https://github.com/lavis0/qtetris)
+
+### Qiskit Camp Africa
+
+[Qat the Cat](https://github.com/NandiBee/QCamp)
+
+### IBM Q Award 2019
+
+[Quantum Gate Quest](https://github.com/nbartzokas/quantum-gate-quest) - a classic 2D dungeon crawler whose puzzles are powered by IBM's quantum technology!
+
+[Schrodinger's Cat](https://github.com/sorin-bolos/schrodingers-cat) - a cool game that is ment to teach you about quantum superposition and quantum gates in a fun way. (by Sorin Bolos)
+
+[Xmas Battle](http://xmasbattle2019.azurewebsites.net/gameindex) - Complete with Santa Qlaus to load the sleigh with as many gifts as possible. 
+
+### Others
+
+[Tic Tac Q](https://github.com/maddy-tod/tictactoe-roli)
+
+[QPong-Unity](https://github.com/HuangJunye/QPong-Unity) - QPong ported to Unity for IBM Quantum Arcade Machine.
+
+[Qiskit Blocks](https://github.com/JavaFXpert/QiskitBlocks)
 
 [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/)
 
-[Q-Snakers](https://github.com/geduardo/Hackathon-Quantum-Snake): A quantum-based version of the game snake on a PewPew device
-
-[Q Rogues](https://gitlab.com/Nico0008/quantum-rogues-maze): A rogue-like game where gameplay elements are procedurally generated by quantum circuits on which the user has some influence
-
-[Dr. Qubit](https://github.com/korgan00/dr-qubit): An educational game based on Qiskit and focused on arcade machines, A quantum approach of the Doctor Mario
-
-[Frozen Q](https://github.com/lustasag/frozenq): A quantum game inspired by the classic Frozen Bubbles game
-
-[Quantum Hold’em](https://github.com/danielbultrini/Quantum-Hold-em-): A two-player “card” game designed to develop an intuition about common operations on qubits
-
-[PewPew-Qube](https://github.com/oscarhiggott/pewpew-qube/): An implementation of a quantum version of the Rubik’s cube on a PewPew device
-
-[Quantum Gate Quest](https://github.com/nbartzokas/quantum-gate-quest): a classic 2D dungeon crawler whose puzzles are powered by IBM's quantum technology!
-
-[Schrodinger's Cat](https://github.com/sorin-bolos/schrodingers-cat): a cool game that is ment to teach you about quantum superposition and quantum gates in a fun way.
-
-[Xmas Battle](http://xmasbattle2019.azurewebsites.net/gameindex): Complete with Santa Qlaus to load the sleigh with as many gifts as possible.
+[Whack A Quantum Mole](https://github.com/honlin96/Whack-A-Quatum-Mole)
