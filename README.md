@@ -100,13 +100,13 @@ At the first version, I am going to add the games in choronological order.
 
 ### Qiskit Camp 2019
 
-[QPong](https://github.com/HuangJunye/QPong) - A quantum version of the classic video game Pong.
+[QPong](https://github.com/HuangJunye/QPong) - A quantum version of the classic video game Pong. (by Huang Junye, Jarrod Reilly, Anastasia Jeffery, James Weaver)
 
-[FlappyQ](https://github.com/lukasszz/FlappyQ)
+[FlappyQat](https://github.com/lukasszz/FlappyQ) - A quantum version of Flappy Bird (by Łukasz Herok, Nick Kasten, Jessica Kane, Dolph Mathews, ...)
 
 ### Qiskit Hackathon Madrid
 
-[Qonway Game of Life](https://github.com/qonwaygameoflife/qonwaygameoflife)
+[Qonway Game of Life](https://github.com/qonwaygameoflife/qonwaygameoflife) - A quantum version of Convay's Game of Life. (by Xiang Nan Wu, Enrique de la Torre, Daniel Bultrini)
 
 ### Qiskit Camp Europe
 
