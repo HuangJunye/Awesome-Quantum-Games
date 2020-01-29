@@ -62,17 +62,17 @@ At the first version, I am going to add the games in choronological order.
 
 ## 2018
 
-[Hunt the Quantpu](https://ldjam.com/events/ludum-dare/42/hunt-the-quantpus) - by James Wootton
+[Hunt the Quantpu](https://ldjam.com/events/ludum-dare/42/hunt-the-quantpus) - A text-based dungeon crawler, based on the classic game ‘Hunt the Wumpus’. (by James Wootton)
 
-[A Link to Quantum](https://github.com/msohaibalam/Link_to_Quantum_game) - by James Wootton, Jonathan DuBois and M. Sohaib Alam
+[A Link to Quantum](https://github.com/msohaibalam/Link_to_Quantum_game) -  A collection of mini video-games that run on a quantum computer inspired by retro classics such as Zelda and Block-Out. (by James Wootton, Jonathan DuBois, M. Sohaib Alam)
 
-[Hello Quantum](http://helloquantum.mybluemix.net/) - by James Wootton, Greg Boland, Ivan Duran and Amanda Shearon
+[Hello Quantum](http://helloquantum.mybluemix.net/) - A puzzle game designed to teach introductory principles of quantum computing. (by James Wootton, Gregory Boland, Ivan Duran, Anna Obikane, Amanda Shearon, Hyun)
 
-[Quantum Cat-sweeper](https://github.com/desireevl/quantum-catsweeper) - by Desiree Vogt-Lee and Kendrick Tan
+[Quantum Cat-sweeper](https://github.com/desireevl/quantum-catsweeper) - A super simple game loosely based on Minesweeper Flags. (by Desiree Vogt-Lee, Kendrick Tan)
 
-[Decodoku](https://decodoku.itch.io/decodoku) - by James Wootton
+[Decodoku](https://decodoku.itch.io/decodoku) - A quantum puzzle game about quantum error correction (by James Wootton)
 
-[Quantum Shooter](https://www.scienceathome.org/games/quantum-shooter/)
+[Quantum Shooter](https://www.scienceathome.org/games/quantum-shooter/) - A variant of Quantum Moves that is a shooter game inspired by games like Crimsonland. (by ScienceAtHome)
 
 ## 2019
 
