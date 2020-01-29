@@ -6,9 +6,7 @@ This list is inspired by [awesome lists](https://github.com/sindresorhus/awesome
 
 The definition of quantum games for this list is rather broad. Any game that have major component of quantum mechanics is a quantum game.
 
-To start with, I will slowly include the games mentioned in James Wootton's medium article: https://medium.com/@decodoku/the-history-of-games-for-quantum-computers-a1de98859b5a This article include only the games which can potentially be played on real quantum computers.
-
-At the first version, I am going to add the games in choronological order.
+The games are listed in choronological order but not strictly. (Games listed under the same year but above are not necesarily released earlier than the games listed below.)
 
 ## 2009
 
@@ -24,7 +22,7 @@ At the first version, I am going to add the games in choronological order.
 
 ## 2015
 
-[Quantum Cats](http://quantumcats.ca/) - The Quantum Cats are on a mission to rescue the kittens. But we need your help! Using the weird and spooky laws of quantum mechanics, help the Quantum Cats save the kittens. (by Institute for Quantum Computing at the University of Waterloo,)
+[Quantum Cats](http://quantumcats.ca/) - The Quantum Cats are on a mission to rescue the kittens. But we need your help! Using the weird and spooky laws of quantum mechanics, help the Quantum Cats save the kittens. (by Institute for Quantum Computing at the University of Waterloo)
 
 [Quantum Dreams](https://www.scienceathome.org/games/quantum-dreams/) - Based on the gameplay of the first ScienceAtHome game Quantum Moves. The dreamland was created to put the original game in motion and spark a sense of flow. Go with the flow and dream the quantum dream! (by ScienceAtHome)
 
@@ -130,15 +128,15 @@ At the first version, I am going to add the games in choronological order.
 
 [Quantum Duel](https://github.com/geduardo/Quantum-Duel--QISKITCAMPASIA) - Be the fastest of the Quantum West. (by Eduardo Gonzalez, Yohei Wakabayashi, Kaito Kishi, Unchalisa Taetragoo)
 
-[QQQ!](https://github.com/CanonMukai/EducationalQuantumGame) - (by ...)
+[QQQ!](https://github.com/CanonMukai/EducationalQuantumGame) - An educational quantum game. (by ...)
 
 [MinQuan](https://github.com/jukoyama/qiskit-board) - A fill-in-the-blank quiz game. (by ...)
 
-[Quantum Othello](https://github.com/Chibikuri/Quantum-Othello) - (by Ryosuke Satoh, ...)
+[Quantum Othello](https://github.com/Chibikuri/Quantum-Othello) - A quantum version of Othello. (by Ryosuke Satoh, ...)
 
 ### CSS Qiskit Hackathon
 
-[QTetris](https://github.com/lavis0/qtetris) - (by ...)
+[QTetris](https://github.com/lavis0/qtetris) - A quantum version of Tetris. (by ...)
 
 ### Qiskit Camp Africa
 
@@ -146,9 +144,9 @@ At the first version, I am going to add the games in choronological order.
 
 ### IBM Q Award 2019
 
-[Quantum Gate Quest](https://github.com/nbartzokas/quantum-gate-quest) - a classic 2D dungeon crawler whose puzzles are powered by IBM's quantum technology! (by Nick Bartzokas)
+[Quantum Gate Quest](https://github.com/nbartzokas/quantum-gate-quest) - A classic 2D dungeon crawler whose puzzles are powered by IBM's quantum technology! (by Nick Bartzokas)
 
-[Schrodinger's Cat](https://github.com/sorin-bolos/schrodingers-cat) - a cool game that is ment to teach you about quantum superposition and quantum gates in a fun way. (by Sorin Bolos)
+[Schrodinger's Cat](https://github.com/sorin-bolos/schrodingers-cat) - A cool game that is ment to teach you about quantum superposition and quantum gates in a fun way. (by Sorin Bolos)
 
 [Xmas Battle](http://xmasbattle2019.azurewebsites.net/gameindex) - Complete with Santa Qlaus to load the sleigh with as many gifts as possible. (by ...)
 
@@ -160,6 +158,6 @@ At the first version, I am going to add the games in choronological order.
 
 [QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks) - Quantum puzzles escape rooms in a Minecraft-like block word. (by James Weaver)
 
-[Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/) - transferring atoms in the best possible way from a specified initial state to the desired target state within very short timescales (sub-milliseconds) in a quantum laboratory. (by ScienceAtHome)
+[Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/) - A sequal to the ScienceAtHome flagship game Quantum Moves. Transferring atoms in the best possible way from a specified initial state to the desired target state within very short timescales (sub-milliseconds) in a quantum laboratory. (by ScienceAtHome)
 
-[Whack A Quantum Mole](https://github.com/honlin96/Whack-A-Quatum-Mole) - (by Too Hon Lin)
+[Whack A Quantum Mole](https://github.com/honlin96/Whack-A-Quatum-Mole) - A single-player game whose objective is to whack as many moles that pop up from the holes as possible. (by Too Hon Lin)
