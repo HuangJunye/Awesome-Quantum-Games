@@ -124,17 +124,17 @@ At the first version, I am going to add the games in choronological order.
 
 ### Qiskit Hackathon @ Singapore
 
-[Qubit Tic Tac Toe](https://github.com/honlin96/Qubit-Tic-Tac-Toe) - (by Too Hon Lin)
+[Qubit Tic Tac Toe](https://github.com/honlin96/Qubit-Tic-Tac-Toe) - A quantum version of Tic Tac Toe. (by Too Hon Lin)
 
-[Piano Blochs](https://github.com/aquohn/piano-blochs) - (by John Khoo, McCoy Lim, Kong Lingda)
+[Piano Blochs](https://github.com/aquohn/piano-blochs) - A quantum harmonic osu!llator, a rhythm game based on popular existing titles such as osu! and Piano Tiles. (by John Khoo, McCoy Lim, Kong Lingda)
 
 ### Qiskit Camp Asia
 
-[Quantum Duel](https://github.com/geduardo/Quantum-Duel--QISKITCAMPASIA) - (by ...)
+[Quantum Duel](https://github.com/geduardo/Quantum-Duel--QISKITCAMPASIA) - Be the fastest of the Quantum West. (by Eduardo Gonzalez, Yohei Wakabayashi, Kaito Kishi, Unchalisa Taetragoo)
 
 [QQQ!](https://github.com/CanonMukai/EducationalQuantumGame) - (by ...)
 
-[MinQuan](https://github.com/jukoyama/qiskit-board) - (by ...)
+[MinQuan](https://github.com/jukoyama/qiskit-board) - A fill-in-the-blank quiz game. (by ...)
 
 [Quantum Othello](https://github.com/Chibikuri/Quantum-Othello) - (by Ryosuke Satoh, ...)
 
@@ -144,7 +144,7 @@ At the first version, I am going to add the games in choronological order.
 
 ### Qiskit Camp Africa
 
-[Qat the Cat](https://github.com/NandiBee/QCamp) - (by Nandi Bau, Siddarth Singh, Dimpho Majatladi, Vicente Pina Canelles)
+[Qat the Cat](https://github.com/NandiBee/QCamp) - Move Qat the Cat around a grid map, from its initial position to a given final position. (by Nandi Bau, Siddarth Singh, Dimpho Majatladi, Vicente Pina Canelles)
 
 ### IBM Q Award 2019
 
