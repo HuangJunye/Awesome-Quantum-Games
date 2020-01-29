@@ -78,25 +78,25 @@ At the first version, I am going to add the games in choronological order.
 
 ### Quantum Wheel game jame
 
-[Qubit the Barbarian](https://itch.io/jam/quantum-wheel/rate/371905)
+[Qubit the Barbarian](https://itch.io/jam/quantum-wheel/rate/371905) - (by Henri Sarasvirta, Petri Sarasvirta, Teemu Kivikangas, Henri Lyyra, Leevi Leppäjärvi, Elie Abraham)
 
-[Q|Cards⟩](https://itch.io/jam/quantum-wheel/rate/371884)
+[Q|Cards⟩](https://itch.io/jam/quantum-wheel/rate/371884) - (by Oskari Kerppo, Jorden Senior, Sabrina Maniscallo, Guillermo Garcia-Perez, Samuli Jääskeläinen, Sylvia Smatanova, Krista Erkkilä, Elie Abraham)
 
-[Quantum Socket](https://itch.io/jam/quantum-wheel/rate/371865)
+[Quantum Socket](https://itch.io/jam/quantum-wheel/rate/371865) - (by Jere Sanisalo, Antti Svenn, Jaakko Iisalo)
 
-[ｈ~ａ~ｍ~ｓ~ｔ~ｅ~ｒ~ｗ~ａ~ｖ~ｅ](https://itch.io/jam/quantum-wheel/rate/371579)
+[ｈ~ａ~ｍ~ｓ~ｔ~ｅ~ｒ~ｗ~ａ~ｖ~ｅ](https://itch.io/jam/quantum-wheel/rate/371579) - (by Elie Abraham, Bjorn Lindholm, Sebastian Laitila, Thekids Laitila, Sun Park, Laura Piispanen, Julia Rassa, Igor Sokolov, Sabrina Maniscalco)
 
-[Schrödinger's Livingroom](https://itch.io/jam/quantum-wheel/rate/371889)
+[Schrödinger's Livingroom](https://itch.io/jam/quantum-wheel/rate/371889) - (by Adelina Lintuluoto, Daria Anttila, Matt Bengston, Sabine Harrer, Simon Nielsen, Reetu Kontio, Vasili Sevriuk)
 
-[Quantum Fruit](https://itch.io/jam/quantum-wheel/rate/371903)
+[Quantum Fruit](https://itch.io/jam/quantum-wheel/rate/371903) - (by Jaakko Sirén, Arvi Teikari, Rosanna Micieli, Nicola Lo Gullo)
 
-[SneaQysnake](https://itch.io/jam/quantum-wheel/rate/371892)
+[SneaQysnake](https://itch.io/jam/quantum-wheel/rate/371892) - (by Vasilii Sevriuk, Ivan Yamshchikov)
 
-[Quantum Cabaret](https://itch.io/jam/quantum-wheel/rate/371902)
+[Quantum Cabaret](https://itch.io/jam/quantum-wheel/rate/371902) - (by Lassi Vapaakallio, Elie Abraham, Olli Harjola, Nadiia Honcharuk, Noora Heiskanen, Roxanne Brooke, Henri Niva)
 
-[Qubit Gardener](https://itch.io/jam/quantum-wheel/rate/371912)
+[Qubit Gardener](https://itch.io/jam/quantum-wheel/rate/371912) - (by Pekka Kujansuu, Jaakko Iisalo)
 
-[QSpell](https://itch.io/jam/quantum-wheel/rate/371908)
+[QSpell](https://itch.io/jam/quantum-wheel/rate/371908) - (by Victor Minin, Boris Sokolov, Walter Talarico)
 
 ### Qiskit Camp 2019
 
