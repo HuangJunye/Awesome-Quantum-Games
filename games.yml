@@ -1,0 +1,33 @@
+games:
+  - name: Universe Splitter
+    year: 2009
+    authors: 
+      - Eric Daniels
+    website: http://cheapuniverses.com/universesplitter/
+    play:
+    description: An app that uses a Quantis quantum device certified by the National Metrology Institute of Switzerland to split a single photon and use the many-worlds principle of quantum physics to help you make decisions.
+  
+  - name: Quantum Moves
+    year: 2012
+    authors:
+      - ScienceAtHome
+    website: https://www.scienceathome.org/games/quantum-moves/
+    play:
+    description: An online citizen science simulation video game where players move quantum atoms.
+  
+  - name: qCraft
+    year: 2013
+    authors: 
+      - Daniel Ratcliffe
+      - Play Habit
+    website: 
+    play:
+    description: 
+
+  - name: 
+    year: 
+    authors:
+      - 
+    website: 
+    play:
+    description: 
