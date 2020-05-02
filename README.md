@@ -183,3 +183,7 @@ The games are listed in choronological order but not strictly. (Games listed und
 [Agent Q](https://vicpina.itch.io/agent-q) - Learn how quantum error correction works, and get rid of those pesky quantum errors to keep our quantum state alive! (by Vicente Pina Canalles)
 
 [Keep Drogon Alive](https://kirais.itch.io/keep-drogon-alive) - On the surface, this game is a Game of Thrones theme, inverse space invader, Ikaruga-clone. Beneath the surface, it runs on a simulated quantum computer and demonstrate an important concept in quantum physics! (by Lidia Luna Puerta, Huang Junye)
+
+[QiskitBlocksPico](https://javafxpert.itch.io/qiskitblockspico) - Qiskit Blocks ported to PICO-8. Quantum computing game in which the object will be to exit a series of escape rooms by solving quantum circuit puzzles. (by James Weaver)
+
+[QFishing](https://yoghurtyam.itch.io/qfishing) - You are an extraterrestrial being who's hungry and needs to eat qubits to stay alive. Being the qubit connoisseur you are, you're picky about the specific state you want your qubits to be in. Your task, should you wish to survive, is to go "Quantum Fishing" and grab all the gates you require to cook yourself a nice qubit meal! (by Rana Pratap)
