@@ -165,3 +165,7 @@ The games are listed in choronological order but not strictly. (Games listed und
 [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/) - A sequal to the ScienceAtHome flagship game Quantum Moves. Transferring atoms in the best possible way from a specified initial state to the desired target state within very short timescales (sub-milliseconds) in a quantum laboratory. (by ScienceAtHome)
 
 [Whack A Quantum Mole](https://github.com/honlin96/Whack-A-Quatum-Mole) - A single-player game whose objective is to whack as many moles that pop up from the holes as possible. (by Too Hon Lin)
+
+## 2020
+
+[Quantum Odyssey](https://www.quarksinteractive.com/) - A single-player game to explore and understand the vastness of quantum computation in a fun and visual experience; 240 puzzles, 20 hours of gameplay & expertly crafted fun puzzles (by Quarks Interactive)
