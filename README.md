@@ -154,6 +154,10 @@ The games are listed in choronological order but not strictly. (Games listed und
 
 [Xmas Battle](http://xmasbattle2019.azurewebsites.net/gameindex) - Complete with Santa Qlaus to load the sleigh with as many gifts as possible. (by ...)
 
+[IBM Quantum Monster](https://github.com/jn1351/IBM-Quantum-Monster) - Quantum version of the classic Lake Monster math puzzle. (by Joseph Nardone)
+
+[QuantumCheckers](https://github.com/VvenomSsnake/Quantum-Checkers) - A game of Checkers demonstrating Quantum Mechanical phenomenon. (by Kartikeya Rambhatla)
+
 ### Others
 
 [Tic Tac Q](https://github.com/maddy-tod/tictactoe-roli) - Play TicTacToe against a quantum computer! (by Maddy Tod)
@@ -165,3 +169,21 @@ The games are listed in choronological order but not strictly. (Games listed und
 [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/) - A sequal to the ScienceAtHome flagship game Quantum Moves. Transferring atoms in the best possible way from a specified initial state to the desired target state within very short timescales (sub-milliseconds) in a quantum laboratory. (by ScienceAtHome)
 
 [Whack A Quantum Mole](https://github.com/honlin96/Whack-A-Quatum-Mole) - A single-player game whose objective is to whack as many moles that pop up from the holes as possible. (by Too Hon Lin)
+
+[QWars](https://mytechnotalent.itch.io/qwars) - QWars is a shoot-em-up pygame using Qiskit as randomizer. (by Kevin Thomas)
+
+[QWiz](https://python.qplay.fi/unity/qalchemy/) - A game where you are a Quantum Wizard apprentice trying to make sense of the behaviour of an interesting liquid moving under the laws of quantum mechanics.
+
+## 2020
+
+### IndiQ Quantum Game Jam
+
+[Benji the Blob](https://decodoku.itch.io/benji-the-blob) - Take your pet for a walk. Keep it well fed by leading it to food. Keep it away from ticks. The terrain is procedurally generated using Qiskit. (by James Wootton)
+
+[Agent Q](https://vicpina.itch.io/agent-q) - Learn how quantum error correction works, and get rid of those pesky quantum errors to keep our quantum state alive! (by Vicente Pina Canalles)
+
+[Keep Drogon Alive](https://kirais.itch.io/keep-drogon-alive) - On the surface, this game is a Game of Thrones theme, inverse space invader, Ikaruga-clone. Beneath the surface, it runs on a simulated quantum computer and demonstrate an important concept in quantum physics! (by Lidia Luna Puerta, Huang Junye)
+
+[QiskitBlocksPico](https://javafxpert.itch.io/qiskitblockspico) - Qiskit Blocks ported to PICO-8. Quantum computing game in which the object will be to exit a series of escape rooms by solving quantum circuit puzzles. (by James Weaver)
+
+[QFishing](https://yoghurtyam.itch.io/qfishing) - You are an extraterrestrial being who's hungry and needs to eat qubits to stay alive. Being the qubit connoisseur you are, you're picky about the specific state you want your qubits to be in. Your task, should you wish to survive, is to go "Quantum Fishing" and grab all the gates you require to cook yourself a nice qubit meal! (by Rana Pratap)
