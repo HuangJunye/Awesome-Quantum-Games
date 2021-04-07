@@ -176,6 +176,8 @@ The games are listed in choronological order but not strictly. (Games listed und
 
 ## 2020
 
+[Quantum Odyssey](https://www.quarksinteractive.com/) - A single-player game to explore and understand the vastness of quantum computation in a fun and visual experience; 240 puzzles, 20 hours of gameplay & expertly crafted fun puzzles (by Quarks Interactive)
+
 ### IndiQ Quantum Game Jam
 
 [Benji the Blob](https://decodoku.itch.io/benji-the-blob) - Take your pet for a walk. Keep it well fed by leading it to food. Keep it away from ticks. The terrain is procedurally generated using Qiskit. (by James Wootton)
