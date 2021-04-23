@@ -26,6 +26,8 @@ The games are listed in choronological order but not strictly. (Games listed und
 
 [Quantum Dreams](https://www.scienceathome.org/games/quantum-dreams/) - Based on the gameplay of the first ScienceAtHome game Quantum Moves. The dreamland was created to put the original game in motion and spark a sense of flow. Go with the flow and dream the quantum dream! (by ScienceAtHome)
 
+[Quantum Chess](https://store.steampowered.com/app/453870/Quantum_Chess/) - Dive into the strange world of quantum mechanics in the game of Quantum Chess, the game you saw in Caltech IQIM's "Anyone Can Quantum" where Paul Rudd beat Stephen Hawking. (by Christopher Cantwell)
+
 ## 2016
 
 [Quantum Carnival](https://www.scienceathome.org/games/quantum-carnival/) - Deep in the heart of scientific progress, a group of physicists have set up a seemingly out-of-place experiment: a colorful tent, hooked up to heavy equipment. You are invited to play for a while and not worry too much about the sound of data being recorded. (by ScienceAtHome)
@@ -35,8 +37,6 @@ The games are listed in choronological order but not strictly. (Games listed und
 ## 2017
 
 [Quantum Game with Photons](http://quantumgame.io) - A puzzle game with photons, superposition and quantum measurement, right in your browser. With true quantum mechanics underneath! (by Piotr Migdał, Patryk Hes and Michał Krupiński)
-
-[Quantum Chess](https://store.steampowered.com/app/453870/Quantum_Chess/) - Dive into the strange world of quantum mechanics in the game of Quantum Chess, the game you saw in Caltech IQIM's "Anyone Can Quantum" where Paul Rudd beat Stephen Hawking. (by Christopher Cantwell)
 
 [CatBoxScissors](https://medium.com/@decodoku/introducing-the-worlds-first-game-for-a-quantum-computer-50640e3c22e4) - A quantum version of rock/paper/scissors. Claimed to be the first ever game that can be played on a real quantum computer. (by James Wootton)
 
