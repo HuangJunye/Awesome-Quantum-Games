@@ -1,6 +1,6 @@
 # Awesome Quantum Games
 
-This list is inspired by [awesome lists](https://github.com/sindresorhus/awesome#readme), but not intended to be awesome, but trying to be as complete as possible. 
+This list is inspired by [awesome lists](https://github.com/sindresorhus/awesome#readme), but not intended to be awesome, but trying to be as complete as possible.
 
 ## What are quantum games?
 
@@ -189,3 +189,9 @@ The games are listed in choronological order but not strictly. (Games listed und
 [QiskitBlocksPico](https://javafxpert.itch.io/qiskitblockspico) - Qiskit Blocks ported to PICO-8. Quantum computing game in which the object will be to exit a series of escape rooms by solving quantum circuit puzzles. (by James Weaver)
 
 [QFishing](https://yoghurtyam.itch.io/qfishing) - You are an extraterrestrial being who's hungry and needs to eat qubits to stay alive. Being the qubit connoisseur you are, you're picky about the specific state you want your qubits to be in. Your task, should you wish to survive, is to go "Quantum Fishing" and grab all the gates you require to cook yourself a nice qubit meal! (by Rana Pratap)
+
+## 2021
+
+## 2022
+
+[Quantum Grove](https://quantum-kittens.itch.io/quantum-grove) - Welcome to Kvantti Kunj, where playful critters scamper about lush terrain, and a qubit controls what you see… Quantum Grove is an interactive art piece playable in the browser that functions as a lofi ambience for study, work, and relaxation.
