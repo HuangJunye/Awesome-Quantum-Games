@@ -194,4 +194,4 @@ The games are listed in choronological order but not strictly. (Games listed und
 
 ## 2022
 
-[Quantum Grove](https://quantum-kittens.itch.io/quantum-grove) - Welcome to Kvantti Kunj, where playful critters scamper about lush terrain, and a qubit controls what you see… Quantum Grove is an interactive art piece playable in the browser that functions as a lofi ambience for study, work, and relaxation.
+[Quantum Grove](https://quantum-kittens.itch.io/quantum-grove) - Welcome to Kvantti Kunj, where playful critters scamper about lush terrain, and a qubit controls what you see… Quantum Grove is an interactive art piece playable in the browser that functions as a lofi ambience for study, work, and relaxation. (by Radha Pyari Sandhir, Ella Toppari, Marcel Pfaffhauser, Tuure Saloheimo)
