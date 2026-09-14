@@ -70,6 +70,8 @@ The games are listed in choronological order but not strictly. (Games listed und
 
 [Quantum Shooter](https://www.scienceathome.org/games/quantum-shooter/) - A variant of Quantum Moves that is a shooter game inspired by games like Crimsonland. (by ScienceAtHome)
 
+[Quantum TiqTaqToe](https://www.quantumtictactoe.com) - A version of tic-tac-toe with quantum moves, built on qutrits instead of qubits. Tokens can be placed in superpositions and can be entangled with each other. Measurements happen when the board is full.  (by Evert van Nieuwenburg)
+
 ## 2019
 
 ### Quantum Wheel game jam
@@ -195,3 +197,7 @@ The games are listed in choronological order but not strictly. (Games listed und
 ## 2022
 
 [Quantum Grove](https://quantum-kittens.itch.io/quantum-grove) - Welcome to Kvantti Kunj, where playful critters scamper about lush terrain, and a qubit controls what you see… Quantum Grove is an interactive art piece playable in the browser that functions as a lofi ambience for study, work, and relaxation. (by Radha Pyari Sandhir, Ella Toppari, Marcel Pfaffhauser, Tuure Saloheimo)
+
+## 2023
+
+[TiqTaqToe](tiqtaqtoe.com) - A re-imagined version of the 2018 Quantum TiqTaqToe game, now as a web-based game with multiplayer capabilities and with a strong AI player. Tokens can still be placed in superpositions, can be entangled, and the game runs on quantum hardware (can be selected)! For minimal quantumness, there is a winning strategy for the starting player. Can you find it? (by Evert van Nieuwenburg)
