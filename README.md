@@ -201,3 +201,12 @@ The games are listed in choronological order but not strictly. (Games listed und
 ## 2023
 
 [TiqTaqToe](tiqtaqtoe.com) - A re-imagined version of the 2018 Quantum TiqTaqToe game, now as a web-based game with multiplayer capabilities and with a strong AI player. Tokens can still be placed in superpositions, can be entangled, and the game runs on quantum hardware (can be selected)! For minimal quantumness, there is a winning strategy for the starting player. Can you find it? (by Evert van Nieuwenburg)
+
+## 2024
+
+[Quantum Prisoner's Dilemma](https://github.com/givemehat/quantum-game-prison) - A framework implementing the Eisert-Wilkens-Lewenstein (EWL) quantum game protocol in Qiskit. Demonstrates how quantum entanglement and unitary strategy operators eliminate the classical Pareto-suboptimal dilemma. (by Rajnish Singh)
+
+## 2025
+
+[Quantum Chess RL](https://github.com/givemehat/quantum-game) - Quantum Chess environment integrating a Proximal Policy Optimization (PPO) reinforcement learning agent with QAOA superposition move evaluation using Qiskit. (by Rajnish Singh)
+
